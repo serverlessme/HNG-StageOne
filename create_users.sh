@@ -13,7 +13,7 @@ fi
 
 # Check if input file is provided
 if [[ $# -eq 0 ]]; then
-    echo "Usage: $0 <input_file>"
+    echo "Usage: $0 users.txt"
     exit 1
 fi
 
