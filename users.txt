@@ -1,4 +1,0 @@
-Charles;Dev,Admin,Sales
-Sophie;Engineering,Analytics
-Jones;Audit,Consulting,Accounting
-
